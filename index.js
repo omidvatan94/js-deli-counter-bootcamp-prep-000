@@ -22,7 +22,6 @@ function currentLine(KatzDeliLine) {
         x += ", "
       }
     }
-    return x 
   }
 }
   
